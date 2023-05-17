@@ -1,0 +1,39 @@
+html, body{
+	margin: 0%;
+}
+
+div.picture {
+	height: 100vh;
+	background-repeat: no-repeat; 
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#img1 {
+	background-image: url(https://static.diariosur.es/www/multimedia/201809/06/media/cortadas/Area_industrial_Malaga-k13D-U60836112013oD-624x385@Diario%20Sur.jpg);
+}
+
+#img2 {
+	background-image: url(https://www.spain.info/export/sites/segtur/.content/imagenes/cabeceras-grandes/andalucia/malaga-noche-c-david-becker-u-h1y4jJOW-l0.jpg);
+}
+
+div.text {
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	top: 50%;
+	position: relative;
+}
+
+div.text2 {
+	text-align: center;
+	color: white;
+	font-size: 10px;
+	top: 95%;
+	position: relative;
+}
+
+div.block {
+	background-color: black;
+	height: 150vh;
+}
