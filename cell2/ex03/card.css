@@ -1,0 +1,64 @@
+html, body {
+	margin: 0%;
+}
+
+h1.title {
+	text-align: center;
+	position: relative;
+	color: black;
+}
+
+table {
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+div.table {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: fit-content;
+}
+
+.img {
+	width: 200px;
+	text-align: center;
+	margin: 10px;
+}
+
+.text1 {
+	text-align: center;
+	padding-bottom: 10px;
+	font-size: 24px;
+	font-family:'Times New Roman', Times, serif;
+	font-weight: bold;
+}
+
+.text2 {
+	text-align: center;
+	padding-bottom: 20px;
+	font-size: 14px;
+	font-family:'Times New Roman', Times, serif;
+}
+
+#icons {
+	display: flex;
+	justify-content: center;
+	padding-bottom: 20px;
+}
+
+.icon1 {
+	margin-left: 0px;
+	display: flex;
+}
+
+.icon2 {
+	margin-left: 0px;
+	display: flex;
+}
+
+.button {
+	justify-content: center;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	display: flex;
+}
