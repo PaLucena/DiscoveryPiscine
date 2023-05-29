@@ -24,8 +24,8 @@
 | ✅ |  [Cellule2.2 - Web](https://cdn.intra.42.fr/pdf/pdf/54820/en.subject.pdf)  | [![palucena's 42 Cellule2.2 - Web Score](https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3095407)](https://github.com/JaeSeoKim/badge42) |
 | ✅ |  [Cellule2.3 - Web](https://cdn.intra.42.fr/pdf/pdf/71632/en.subject.pdf)  | [![palucena's 42 Cellule2.3 - Web Score](https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3095747)](https://github.com/JaeSeoKim/badge42) |
 | ✅ |  [Cellule3.0 - Web](https://cdn.intra.42.fr/pdf/pdf/71585/en.subject.pdf)  | [![palucena's 42 Cellule3.0 - Web Score](https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3096848)](https://github.com/JaeSeoKim/badge42) |
-| ▶️|  [Cellule3.1 - Web](https://cdn.intra.42.fr/pdf/pdf/71588/en.subject.pdf)  | Ongoing |
-| ⏸ |  [Cellule3.2 - Web](https://cdn.intra.42.fr/pdf/pdf/71591/en.subject.pdf)  | Not started |
-| ⏸ |  [Cellule3.3 - Web](https://cdn.intra.42.fr/pdf/pdf/71594/en.subject.pdf)  | Not started |
-| ⏸ |  [Cellule3.4 - Web](https://cdn.intra.42.fr/pdf/pdf/71597/en.subject.pdf)  | Not started |
-| ⏸ | [Cellule4.0 - Rush](https://cdn.intra.42.fr/pdf/pdf/58246/en.subject.pdf)  | Not started |
+| ![](https://geps.dev/progress/60) |  [Cellule3.1 - Web](https://cdn.intra.42.fr/pdf/pdf/71588/en.subject.pdf)  | Ongoing |
+| ![](https://geps.dev/progress/0) |  [Cellule3.2 - Web](https://cdn.intra.42.fr/pdf/pdf/71591/en.subject.pdf)  | Not started |
+| ![](https://geps.dev/progress/0) |  [Cellule3.3 - Web](https://cdn.intra.42.fr/pdf/pdf/71594/en.subject.pdf)  | Not started |
+| ![](https://geps.dev/progress/0) |  [Cellule3.4 - Web](https://cdn.intra.42.fr/pdf/pdf/71597/en.subject.pdf)  | Not started |
+| ![](https://geps.dev/progress/0) | [Cellule4.0 - Rush](https://cdn.intra.42.fr/pdf/pdf/58246/en.subject.pdf)  | Not started |
